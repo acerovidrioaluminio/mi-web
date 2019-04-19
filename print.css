@@ -1,0 +1,60 @@
+div.divFooter20, div.divFooter21, div.divFooter22, div.divFooter23, div.divFooter24,div.divFooter25, div.divFooter26, div.divFooter27, div.divFooter28, div.divFooter29,div.divFooter30, div.divFooter31, div.divFooter32, div.divFooter33, div.divFooter34,div.divFooter35, div.divFooter36, div.divFooter37, div.divFooter38, div.divFooter40, div.divFooter41, div.divFooter44, div.divFooter46, div.divFooter47, #vidrio, #acabado, div.divFooter6, div.divFooter8, div.divFooter10, div.divFooter7, div.divFooter, div.divFooter1, div.divFooter2, div.divFooter3, div.divFooter4, div.divFooter5, .item_name, #ancho, #alto, #precio, div.divFooter42
+{position:fixed;}
+
+div.divFooter32, div.divFooter31, div.divFooter30, div.divFooter29, div.divFooter28, div.divFooter20, div.divFooter38, div.divFooter22, div.divFooter, div.divFooter1, div.divFooter2, div.divFooter3, div.divFooter4, div.divFooter5 
+{text-align:center;}
+
+div.divFooter23 { top:7.68in;left:0.88in;width:5.14in;text-align:left;}
+div.divFooter32, div.divFooter31, div.divFooter30, div.divFooter29, div.divFooter28 {top:6.49in;}
+div.divFooter25 { top:6.97in;left:1.03in;width:0.33in;height:0.30in;}
+div.divFooter27 { top:6.17in;left:0.95in;width:8.18in;height:0.53in;}
+div.divFooter40 { top:2.67in;left:0.86in;width:1.90in;height:0.61in;z-index:1000;}
+div.divFooter41 { top:2.69in;left:0.86in;width:1.82in;height:2.73in;}
+div.divFooter38 { top:2.75in;left:0.82in;width:2.00in;z-index:2000;}
+div.divFooter22 { top:7.92in;left:7.30in;width:2.00in;}
+div.divFooter21 { top:7.90in;left:6.00in;width:0.90in;}
+div.divFooter24 { top:6.92in;left:0.88in;height:0.39in;}
+div.divFooter33 { top:5.93in;left:0.88in;height:0.39in;}
+div.divFooter26 { top:6.99in;left:1.41in;z-index:1000;width:5.95in;}
+div.divFooter28 { left:1.00in;width:2.61in;}
+div.divFooter29 { left:2.79in;width:2.45in;}
+div.divFooter30 { left:3.94in;width:2.67in;}
+div.divFooter31 { left:5.55in;width:2.63in;}
+div.divFooter32 { left:7.62in;width:1.50in;}
+div.divFooter34 { top:6.04in;left:1.03in;width:5.60in;}
+div.divFooter35 { top:1.19in;left:0.88in;}
+div.divFooter36 { top:0.33in;left:3.90in;width:5.95in;}
+div.divFooter37 { top:0.85in;left:4.41in;}
+div.divFooter42 { top:5.05in;left:0.91in;width:0.50in;}
+div.divFooter44 { top:4.80in;left:0.91in;width:0.50in;}
+div.divFooter46 { top:3.49in;left:0.99in;}
+div.divFooter47 { top:5.35in;left:0.91in;width:0.50in;}
+div.divFooter8 { top:0.44in;left:2.63in;width:5.00in;text-align: right;}
+
+div.divFooter7 { top:0.30in; width:0.90in; left:0.88in; }
+div.divFooter, div.divFooter1, div.divFooter2, div.divFooter3, div.divFooter4, div.divFooter5 { top:13.60in;width:1.40in;line-height:0.14in;}
+div.divFooter {   left:0.88in;width:1.80in;}
+div.divFooter1 {  left:2.88in;}
+div.divFooter2 {  left:4.18in;}
+div.divFooter3 {  left:5.52in;}
+div.divFooter4 {  left:6.62in;}
+div.divFooter5 {  left:8.02in;width:1.80in;}
+div.divFooter6 {  top:13.40in;left:0.88in;}
+div.divFooter10 { top:10.95in;  left:2.22in;}
+div.divFooter20 { top:10.45in;left:0.88in;width:9.00in;}
+.item_name { top:0.69in;left:3.70in;width:5.00in;text-align:right;color:#3acbc4;font-size:12pt;}
+#vidrio { top:9.15in;left:1.79in;width:2.60in;z-index:1000;border:none;}
+#ancho { top:4.65in;left:1.42in;width:1.00in;text-align:right;z-index:1000;border:none;}
+#alto { top:4.95in;left:1.42in;width:1.00in;text-align:right;z-index:1000;border:none;}
+#acabado { top:8.85in;left:1.81in;width:2.50in;z-index:1000;border:none;}
+#precio { top:5.25in;left:1.42in;width:1.10in;text-align:right;z-index:1000;border:none;}
+#nav, footer, .impre, hr {  display: none !important;}
+
+div {font-style:normal;font-weight:normal;font-size:9pt;font-family:Helvetica;color:#616e6d;line-height:0.16in;}
+
+  .content-block, p, div {    page-break-inside: avoid;  }
+
+  div.saltopagina{     display:block;     page-break-before:always;   }
+@page {
+   size: A4 landscape;
+}
